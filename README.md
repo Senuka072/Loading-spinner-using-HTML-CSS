@@ -1,4 +1,4 @@
-# This repository is about how make a loading spinner using HTML & CSS.
+# This repository is about how to make a loading spinner using HTML & CSS.
 
 ## Clone the repository
 ```
